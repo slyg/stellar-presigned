@@ -1,0 +1,9 @@
+{
+  "alice": {
+    "publicKey": "",
+    "secret": ""
+  },
+  "bob": {
+    "publicKey": ""
+  }
+}
