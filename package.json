@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "stellar-sdk": "^3.0.0",
+    "stellar-sdk": "^8.2.3",
     "bignumber.js": "4.1.0"
   }
 }
